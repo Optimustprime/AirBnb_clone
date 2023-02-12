@@ -169,6 +169,5 @@ The recognizable commands by the interpreter are the following:
 
 ## Author
 
-Odediran Philip | Email: [Akin125](mailto:philipoluseyi@gmail.com) 
+Ajadi Marvellous Oladayo | Email: [theoptimust](mailto:ajadimarvellousgo@gmail.com) 
 
-Adewale Isaac | Github: [jesulonse](mailto:jesulonse@gmail.com)
